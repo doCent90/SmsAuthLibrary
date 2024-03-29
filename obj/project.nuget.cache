@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hctlUrSJnSho8uxLciweAaTZ7xpGwwqxxCU2DT92/bHPxg5qwS6uEau9cPATQVwrPacLHym2Dw2Oyt+5LjQiWw==",
+  "success": true,
+  "projectFilePath": "E:\\SmsAuthLibrary\\SmsAuthLibrary\\SmsAuthLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
